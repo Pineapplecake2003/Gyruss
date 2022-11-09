@@ -1,0 +1,16 @@
+Player
+450 540 300 0 false
+
+Enemys
+469 36
+
+Bullets
+491 176 false
+
+Bouns
+297 32
+
+Time
+899
+
+Boss
